@@ -1,6 +1,6 @@
 # colors-project
 
-a web app for creating new color palettes.
+a web app for creating new color palettes. [Live version.](https://colors-project.onrender.com)
 
 ## Description
 
